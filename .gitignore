@@ -1,0 +1,22 @@
+# Large files
+*.pcap
+*.pcapng
+*.cap
+
+# Generated/parsed data
+parsed_emails/
+eml_files/
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

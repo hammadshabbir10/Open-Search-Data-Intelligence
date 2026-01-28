@@ -6,6 +6,7 @@
 # Generated/parsed data
 parsed_emails/
 eml_files/
+emails/
 *.csv
 *.json
 

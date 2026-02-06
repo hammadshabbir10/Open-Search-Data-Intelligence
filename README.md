@@ -31,6 +31,7 @@ Open Search Data Intelligence is an enterprise-grade platform designed to help s
 
 - Python 3.8+
 - Git
+- Opensearch-py package (pip install opensearch-py)
 
 ### Installation
 
@@ -62,6 +63,8 @@ python extract_network_1.py
 ```bash
 cd ..
 python build_final_json_1.py
+
+
 ```
 
 

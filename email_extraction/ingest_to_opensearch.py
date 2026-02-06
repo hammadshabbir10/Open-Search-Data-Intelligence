@@ -264,7 +264,7 @@ def main():
         sys.exit(1)
     
     # Load email data
-    json_file_path = r"c:\Users\Bilal\Documents\Opensearch\Open-Search-Data-Intelligence\email_extraction\final_emails.json"
+    json_file_path = r"D:\Opensearch\Open-Search-Data-Intelligence\email_extraction\final_emails.json"
     email_data = load_email_data(json_file_path)
     
     # Bulk index the data
